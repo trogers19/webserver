@@ -1,5 +1,3 @@
-# webserver
-
 From COSC 340 Assignment README.md:
 
 # Learning to use cloud platform
